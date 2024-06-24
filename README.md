@@ -1,17 +1,18 @@
-# Pytorch Implementation of Physics-informed-Neural-Networks(PINNs) 
+## Our work is based on [https://github.com/riakymch/ReproCG#building-reprocg (ReproCG)](https://github.com/hojunkim13/PINNs)
 
-PINNs were designed to solve a partial differential equation(PDE) by Raissi et al.  
-The loss of PINNs is defined as PDE loss at collocation points and initial condition(IC) loss, boundary condition(BC) loss.
-I recommend you to read [this](https://maziarraissi.github.io/PINNs/) for more details.
- 
 ## Getting Started
 
-
-
 ### Prerequisites
-This code has been tested with Pytorch 1.10.0, CUDA 11.5, Window 10. However, it would be fine with lower versions as well.
+This code has been tested with Pytorch 1.13.1, CUDA 11.7.1, Ubuntu 20.04. However, it would be fine with lower versions as well.
 The library versions used are:
 
+```
+numpy 1.24.3
+scipy 1.10.1
+matplotlib 3.7.1
+pyDOE 0.3.8
+pytorch 1.13.1
+```
 
 
 ## License 
