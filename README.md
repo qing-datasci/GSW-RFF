@@ -1,8 +1,8 @@
 ## Our work is based on https://github.com/hojunkim13/PINNs & https://github.com/PredictiveIntelligenceLab/MultiscalePINNs
 
-## Getting Started
 
-### Prerequisites
+
+## Prerequisites
 This code has been tested with Pytorch 1.13.1, CUDA 11.7.1, Ubuntu 20.04. However, it would be fine with lower versions as well.
 The library versions used are:
 
