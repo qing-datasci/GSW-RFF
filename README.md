@@ -1,4 +1,4 @@
-## Our work is based on [https://github.com/riakymch/ReproCG#building-reprocg (ReproCG)](https://github.com/hojunkim13/PINNs)
+## Our work is based on https://github.com/hojunkim13/PINNs
 
 ## Getting Started
 
