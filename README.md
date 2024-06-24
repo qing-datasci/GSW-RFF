@@ -27,3 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 - Raissi, Maziar, Paris Perdikaris, and George E. Karniadakis. "[Physics-informed neural networks: A deep learning framework for solving forward and inverse problems involving nonlinear partial differential equations](https://www.sciencedirect.com/science/article/pii/S0021999118307125)." Journal of Computational Physics 378 (2019): 686-707.
 
+- S. Wang, H. Wang, P. Perdikaris."[On the eigenvector bias of fourier feature networks: From re-gression to solving multi-scale pdes with physics-informed neural networks (https://www.sciencedirect.com/science/article/abs/pii/S0045782521002759).", Computer Methods in Applied Mechanics and Engineering 384 (2021) 113938.
